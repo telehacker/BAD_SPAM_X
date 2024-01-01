@@ -18,7 +18,7 @@ HELP_BUTTON = [
       Button.url("• sᴜᴘᴘᴏʀᴛ •", "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x74\x2e\x6d\x65\x2f\x6c\x6c\x5f\x54\x48\x45\x5f\x42\x41\x44\x5f\x42\x4f\x54\x5f\x6c\x6c")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/TeamAloneOp/AloneXSpam/fork")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Badhacker98/BAD_SPAM_X/fork")
     ]]
 
 
@@ -142,7 +142,7 @@ async def helpback(event):
                 Button.url("• sᴜᴘᴘᴏʀᴛ •", "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x74\x2e\x6d\x65\x2f\x6c\x6c\x5f\x54\x48\x45\x5f\x42\x41\x44\x5f\x42\x4f\x54\x5f\x6c\x6c")
               ]
                 [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/TeamAloneOp/AloneXSpam/fork")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Badhacker98/BAD_SPAM_X/fork")
             ],
             ]
           )
