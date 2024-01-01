@@ -3,7 +3,7 @@ from telethon import events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"★ 𝘼𝙡𝙤𝙣𝙚𝙓 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ALONE_WAS_BOT**"
+HELP_STRING = f"★ 𝐁𝐀𝐃𝐒𝐏𝐀𝐌𝐗 𝐇𝐄𝐋𝐏 𝐌𝐄𝐍𝐔 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @II_BAD_BBY_II**"
 
 HELP_BUTTON = [
     [
@@ -14,8 +14,10 @@ HELP_BUTTON = [
       Button.inline("• ᴇxᴛʀᴀ •", data="extra")
     ],
     [
-      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/AloneXBots"),
-      Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/AlonesHeaven")
+      Button.url("• ᴄʜᴀɴɴᴇʟ •", "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x74\x2e\x6d\x65\x2f\x6c\x6c\x5f\x42\x41\x44\x5f\x4d\x55\x4e\x44\x41\x5f\x57\x4f\x52\x4c\x44\x5f\x6c\x6c
+"),
+      Button.url("• sᴜᴘᴘᴏʀᴛ •", "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x74\x2e\x6d\x65\x2f\x6c\x6c\x5f\x54\x48\x45\x5f\x42\x41\x44\x5f\x42\x4f\x54\x5f\x6c\x6c
+")
     ]
   ]
 
