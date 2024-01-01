@@ -136,8 +136,8 @@ async def helpback(event):
                 Button.inline("• ᴇxᴛʀᴀ •", data="extra")
               ],
               [
-                Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/AloneXBots"),
-                Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/AlonesHeaven")
+                Button.url("• ᴄʜᴀɴɴᴇʟ •", "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x74\x2e\x6d\x65\x2f\x6c\x6c\x5f\x42\x41\x44\x5f\x4d\x55\x4e\x44\x41\x5f\x57\x4f\x52\x4c\x44\x5f\x6c\x6c"),
+                Button.url("• sᴜᴘᴘᴏʀᴛ •", "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x74\x2e\x6d\x65\x2f\x6c\x6c\x5f\x54\x48\x45\x5f\x42\x41\x44\x5f\x42\x4f\x54\x5f\x6c\x6c")
               ]
             ]
           )
