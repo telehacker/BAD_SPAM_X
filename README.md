@@ -1,11 +1,11 @@
-<h1 align="center"><b>[⚡] 𝘼𝙡𝙤𝙣𝙚𝙓𝙎𝙥𝙖𝙢 [⚡]</b></h1>
+<h1 align="center"><b>[⚡] 𝐁𝐀𝐃 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 [⚡]</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/PyXen"><img src="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/PyXen"><img src="https://telegra.ph/file/ba6d7f5f4ae9ae22c6dcd.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op BADXSPAMBOT. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
