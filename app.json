@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x67\x69\x74\x68\x75\x62\x2e\x63\x6f\x6d\x2f\x42\x61\x64\x68\x61\x63\x6b\x65\x72\x39\x38\x2f\x42\x41\x44\x5f\x53\x50\x41\x4d\x5f\x58",
+    "repository": "https://github.com/Badhacker98/BAD_SPAM_X",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
