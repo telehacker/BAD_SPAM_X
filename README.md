@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/PyXen"><img src="https://telegra.ph/file/ba6d7f5f4ae9ae22c6dcd.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Vivek_16k"><img src="https://telegra.ph/file/ba6d7f5f4ae9ae22c6dcd.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op BADXSPAMBOT. That is the greatest pleasure we have !
@@ -24,6 +24,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/ll_THE_BAD_BOT_ll"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Vivek_16k"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>
