@@ -3,7 +3,7 @@ from telethon import events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"★ 𝐁𝐀𝐃𝐒𝐏𝐀𝐌𝐗 𝐇𝐄𝐋𝐏 𝐌𝐄𝐍𝐔 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @II_BAD_BBY_II**"
+HELP_STRING = f"★ 𝐁𝐀𝐃𝐒𝐏𝐀𝐌𝐗 𝐇𝐄𝐋𝐏 𝐌𝐄𝐍𝐔 ★\n\n» **ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ ꜰᴏʀ ʜᴇʟᴘ**\n» **ᴅᴇᴠᴇʟᴏᴘᴇʀ: @VIVEK_16k**"
 
 HELP_BUTTON = [
     [
@@ -62,7 +62,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @II_BAD_BBY_II**
+**© @VIVEK_16k**
 """
 
                  
@@ -94,7 +94,7 @@ raid_msg = f"""
   2) {hl}craid <count> <reply to user>
 
 
-**© @II_BAD_BBY_II**
+**© @VIVEK_16k**
 """
 
 spam_msg = f"""
@@ -185,7 +185,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
           )
     else:
-        await event.answer("Make Your Own Altron Bots !! @II_BAD_BBY_II", cache_time=0, alert=True)
+        await event.answer("Make Your Own Altron Bots !! @VIVEK_16k", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -204,4 +204,4 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("Make Your Own Altron Bots !! @II_BAD_BBY_II", cache_time=0, alert=True)
+        await event.answer("Make Your Own Altron Bots !! @VIVEK_16k", cache_time=0, alert=True)
